@@ -13,7 +13,7 @@ button1.addEventListener('click',add)
     localStorage.setItem('h1',x);
     localStorage.setItem('h2',y);
     localStorage.setItem('h3',z);
-    // localStorage.setItem('h4',a);
+    localStorage.setItem('h4',a);
 
     
     
